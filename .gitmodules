@@ -1,0 +1,3 @@
+[submodule "ios/ADFLiOS"]
+	path = ios/ADFLiOS
+	url = https://github.com/binjiayou66/ADFLiOS.git
